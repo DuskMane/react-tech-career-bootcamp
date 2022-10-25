@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0%;
+}
+
+.App {
+  text-align: center;
+}
+
+.dark {
+  background-color: black;
+  width: 100%;
+  height: 100vh;
+}
+
+.dark > * {
+  color: #fff;
+}
+
+.light {
+  background-color: "#fff";
+  width: 100%;
+  height: 100vh;
+}
+
+.light > * {
+  color: #333;
+}
