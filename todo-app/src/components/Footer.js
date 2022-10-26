@@ -6,7 +6,7 @@ function Footer() {
     <footer className='info'>
         <p>Click to edit todo</p>
         <p>
-            Created by <a href='www.google.com'>Tech Career</a>
+            Created by <a href='#'>Tech Career</a>
         </p>
     </footer>
   )
